@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CurlWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/CurlWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CurlWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CurlWeb_main.iml" group="CurlWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CurlWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CurlWeb_test.iml" group="CurlWeb" />
+    </modules>
+  </component>
+</project>
